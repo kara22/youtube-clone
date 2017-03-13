@@ -27,3 +27,8 @@
 .list-group-item:hover {
   background-color: #eee;
 }
+
+.text-center {
+  text-align: center;
+  margin-top: 10px;
+}
