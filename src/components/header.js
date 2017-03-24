@@ -4,9 +4,9 @@ const Header = () => {
 
 
   return(
-   <div className="text-center">
-      <h3>SPA Youtube ajax search by Kara Diaby</h3>
-      <p>Created by React JS and Redux. React is very powerful. Feel free to download the source code</p>
+   <div>
+      <h3 className="pull-left">Youclone</h3>
+      <p className="text-center">Created with React JS and Redux. Feel free to download the source code on github.com/kara22</p>
    </div>
   );
 

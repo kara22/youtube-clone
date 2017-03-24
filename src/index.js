@@ -40,7 +40,7 @@ videoSearch(term) {
     const videoSearch = _.debounce((term) => {this.videoSearch(term)}, 300);
 
   return (
-    <div>
+<div>
   <Header />
   <SearchBar onSearchTermChange={videoSearch}/>
   <VideoDetail video={this.state.selectedVideo} />

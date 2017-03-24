@@ -6,7 +6,7 @@
 
 .search-bar input {
   width: 75%;
-  border-radius: 4px;
+  border-radius: 5px;
 }
 
 .video-item img {
@@ -31,4 +31,13 @@
 .text-center {
   text-align: center;
   margin-top: 10px;
+}
+
+body {
+  background-color:#f1f1f1;
+  font-family: 'Roboto', sans-serif !important;
+}
+
+h3 {
+  padding-top: 15px;
 }
